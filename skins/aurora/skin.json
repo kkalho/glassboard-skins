@@ -1,0 +1,18 @@
+{
+    "Grain":  0.03,
+    "Id":  "aurora",
+    "Gloss":  0.3,
+    "IconPack":  0,
+    "Specular":  true,
+    "TintBlend":  true,
+    "Name":  "极光 Aurora",
+    "Shadow":  true,
+    "Tint":  "#0B2E3A",
+    "Kind":  3,
+    "SurfaceGradient":  true,
+    "TintAlpha":  0.14,
+    "Hairline":  true,
+    "Radius":  26,
+    "Saturation":  1.2,
+    "OpacityPercent":  58
+}

@@ -1,0 +1,42 @@
+{
+    "name":  "GlassBoard Skins",
+    "version":  1,
+    "skins":  [
+                  {
+                      "id":  "aurora",
+                      "name":  "极光 Aurora",
+                      "author":  "kkalho",
+                      "description":  "深海蓝绿渐变与冷色高光，适合深色壁纸。",
+                      "version":  "1.0.0",
+                      "skin":  "skins/aurora/skin.json",
+                      "preview":  "skins/aurora/preview.png"
+                  },
+                  {
+                      "id":  "sunset",
+                      "name":  "落日 Sunset",
+                      "author":  "kkalho",
+                      "description":  "暖橙与玫红叠加，像黄昏玻璃。",
+                      "version":  "1.0.0",
+                      "skin":  "skins/sunset/skin.json",
+                      "preview":  "skins/sunset/preview.png"
+                  },
+                  {
+                      "id":  "mint",
+                      "name":  "薄荷 Mint",
+                      "author":  "kkalho",
+                      "description":  "浅色薄荷磨砂，清爽通透。",
+                      "version":  "1.0.0",
+                      "skin":  "skins/mint/skin.json",
+                      "preview":  "skins/mint/preview.png"
+                  },
+                  {
+                      "id":  "graphite",
+                      "name":  "石墨极简",
+                      "author":  "kkalho",
+                      "description":  "低圆角、无高光、几乎全透明的极简深色。",
+                      "version":  "1.0.0",
+                      "skin":  "skins/graphite/skin.json",
+                      "preview":  "skins/graphite/preview.png"
+                  }
+              ]
+}

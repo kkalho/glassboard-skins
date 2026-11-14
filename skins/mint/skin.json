@@ -1,0 +1,18 @@
+{
+    "Grain":  0.02,
+    "Id":  "mint",
+    "Gloss":  0.28,
+    "IconPack":  1,
+    "Specular":  false,
+    "TintBlend":  false,
+    "Name":  "薄荷 Mint",
+    "Shadow":  true,
+    "Tint":  "#E6F7F1",
+    "Kind":  0,
+    "SurfaceGradient":  true,
+    "TintAlpha":  0.04,
+    "Hairline":  true,
+    "Radius":  24,
+    "Saturation":  0.95,
+    "OpacityPercent":  62
+}

@@ -1,0 +1,18 @@
+{
+    "Grain":  0.05,
+    "Id":  "sunset",
+    "Gloss":  0.26,
+    "IconPack":  0,
+    "Specular":  true,
+    "TintBlend":  true,
+    "Name":  "落日 Sunset",
+    "Shadow":  true,
+    "Tint":  "#3A1420",
+    "Kind":  0,
+    "SurfaceGradient":  true,
+    "TintAlpha":  0.16,
+    "Hairline":  true,
+    "Radius":  30,
+    "Saturation":  1.15,
+    "OpacityPercent":  52
+}

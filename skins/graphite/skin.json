@@ -1,0 +1,18 @@
+{
+    "Grain":  0,
+    "Id":  "graphite",
+    "Gloss":  0.05,
+    "IconPack":  0,
+    "Specular":  false,
+    "TintBlend":  false,
+    "Name":  "石墨极简",
+    "Shadow":  false,
+    "Tint":  "#0E0F12",
+    "Kind":  0,
+    "SurfaceGradient":  false,
+    "TintAlpha":  0,
+    "Hairline":  false,
+    "Radius":  14,
+    "Saturation":  1,
+    "OpacityPercent":  34
+}
